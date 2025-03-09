@@ -18,7 +18,7 @@ Se não houver resposta → Porta pode estar aberta ou filtrada.
 Se houver resposta UDP → Porta está aberta e o serviço respondeu.
 
 
-###########################################################################################################
+#######################################################################################
 This script was developed to help me enhance my knowledge of TCP and UDP, ports, and their associated services.
 
 This script only performs an audit on the target (host), revealing any open ports and their associated services.
@@ -39,7 +39,7 @@ If there is no response → Port may be open or filtered.
 
 If there is a UDP response → Port is open and the service responded.
 
-###########################################################################################################
+#######################################################################################
 # Screenshots
 
 ![{C249498E-E256-4FE4-B7F8-6C18CC0CF610}](https://github.com/user-attachments/assets/831f680e-b94b-475f-ac39-b604beda7a43)
